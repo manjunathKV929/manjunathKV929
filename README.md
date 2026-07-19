@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=260&section=header&text=Manjunath%20Krishnanand%20Vernekar&fontSize=50&fontAlignY=35&fontColor=f7f5f5&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20%7C%20DSA%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%2FML%20%20%7C%20Cyber%20Security&descAlignY=55&descSize=20&descColor=f7f5f5" width="100%"/>
 
 <br/>
