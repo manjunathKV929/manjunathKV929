@@ -37,23 +37,18 @@
 
 <br/>
 
-I'm a Software Engineer specializing in building **scalable, high-performance systems** and **production-grade AI/ML products**. My work spans the full stack — from architecting resilient backend services and distributed systems, to shipping polished, accessible front-end experiences, to designing and deploying machine learning pipelines that operate reliably in production.
-
-I approach engineering with a **product mindset**: I care as much about *why* something is being built as *how* it's built. I enjoy owning problems end-to-end — from system design and technical trade-offs, to implementation, testing, deployment, and iteration based on real usage.
-
-I'm particularly drawn to problems at the intersection of **software architecture and applied AI** — building systems that are not only intelligent, but also robust, observable, and maintainable at scale.
-
+I am a passionate **software developer** dedicated to building **secure**, **scalable**, and **intelligent** applications. My core expertise lies in **Full Stack Web and App Development**, with a strong focus on the **MERN stack** to deliver seamless, end-to-end user experiences. Rooted in a solid foundation of **Data Structures and Algorithms (DSA)**, I approach complex engineering challenges with an analytical mindset to write efficient, optimized code. Beyond traditional development, I am actively exploring the potential of **AI/ML** to integrate **smart**, **data-driven features** into modern solutions. Furthermore, I prioritize **cybersecurity** principles throughout the development lifecycle, ensuring that the systems I architect are not only highly functional but also deeply resilient against emerging threats. I am always eager to innovate, contribute to meaningful **open-source** projects, and build technology that makes a real impact.
 <br/>
 
 <div align="center">
 
-| 🟢 Open To | 🔴 Not Looking For |
-|:---|:---|
-| Full-time Software Engineering / AI Engineering roles | Unpaid internships |
-| Freelance & contract engineering projects | Low-effort outreach |
-| Open-source collaboration | Non-technical roles |
-| Technical mentorship & pair programming | — |
-
+| 🟢 Open To |
+|:---|
+| Fullstack Web and App Development roles |
+| Internships, Freelance & projects |
+| AI/ML & Cyber Security releted roles |
+| MERN stack, Backend Development roles |
+| Open-source collaboration |
 </div>
 
 ---
@@ -64,25 +59,30 @@ I'm particularly drawn to problems at the intersection of **software architectur
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go,rust&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,flutter,kotlin&theme=dark" />
 
 <br/><br/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 
 <br/><br/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,graphql,postgres,mongodb,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql&theme=dark" />
+
+<br/><br/>
+**Artificial Intelligence and Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,firebase&theme=dark" />
 
 <br/><br/>
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,terraform,git,linux,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vscode,git,github,linux,vercel,figma&theme=dark" />
 
 </div>
 
@@ -194,32 +194,6 @@ Leading design and development of core backend services powering high-traffic pr
 `Backend` `System Design` `Kubernetes` `PostgreSQL` `Mentorship`
 
 <br/>
-
-**Software Engineer · Previous Company**
-`Jun 2022 — Dec 2023`
-
-Built and maintained full-stack features across a growing SaaS platform, working closely with product teams to translate requirements into performant, well-tested software.
-
-- Developed and shipped 20+ customer-facing features end-to-end
-- Improved API response times by 45% through query optimization and caching
-- Built internal tooling that reduced onboarding time for new engineers by half
-- Implemented CI/CD pipelines improving deployment frequency by 3x
-
-`Full Stack` `React` `Node.js` `CI/CD` `Testing`
-
-<br/>
-
-**Software Engineering Intern · Startup Inc.**
-`Jan 2022 — May 2022`
-
-Contributed to core product features in a fast-paced startup environment, gaining hands-on experience with rapid iteration and production deployment cycles.
-
-- Built RESTful APIs consumed by the primary web and mobile clients
-- Wrote unit and integration tests, increasing code coverage by 30%
-- Participated in daily stand-ups and sprint planning within an agile team
-
-`APIs` `Testing` `Agile` `Git`
-
 ---
 
 ## 🏆 Achievements
@@ -289,12 +263,12 @@ Issued by the Cloud Native Computing Foundation. Validates hands-on skills in de
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=6D28D9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manjunathKV929&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=6D28D9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunathKV929&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunathKV929&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
 
 </div>
 
@@ -304,7 +278,7 @@ Issued by the Cloud Native Computing Foundation. Validates hands-on skills in de
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=manjunathKV929&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
@@ -314,7 +288,7 @@ Issued by the Cloud Native Computing Foundation. Validates hands-on skills in de
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E5E7EB&area=true&area_color=6D28D9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manjunathKV929&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E5E7EB&area=true&area_color=6D28D9" width="100%"/>
 
 </div>
 
@@ -324,7 +298,7 @@ Issued by the Cloud Native Computing Foundation. Validates hands-on skills in de
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/manjunathKV929/manjunathKV929/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -358,10 +332,10 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathkvernekar1509@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-krishnanand-vernekar-99mkv/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjunathKV929)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithmanjunathkv.vercel.app)
 
 </div>
 
@@ -369,7 +343,7 @@ current_focus:
 
 <div align="center">
 
-*"Great software is built at the intersection of thoughtful engineering and relentless curiosity."*
+*"Great software is built at the intersection of thoughtful Engineering and relentless curiosity."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,50:24243e,100:0F0C29&height=150&section=footer" width="100%"/>
 
