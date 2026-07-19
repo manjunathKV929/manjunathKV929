@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:24243e,100:302B63&height=260&section=header&text=Your%20Name&fontSize=72&fontAlignY=35&fontColor=E9D8FD&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=260&section=header&text=Manjunath%20Krishnanand%20Vernekar&fontSize=50&fontAlignY=35&fontColor=f7f5f5&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20%7C%20DSA%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%2FML%20%20%7C%20Cyber%20Security&descAlignY=55&descSize=20&descColor=f7f5f5" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Building+scalable+systems+at+scale;Designing+intelligent+ML+pipelines;Crafting+clean%2C+performant+code;Turning+ideas+into+production+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Building+scalable+MERN+stack+applications;Crafting+responsive+web+and+mobile+apps;Solving+complex+problems+with+DSA;Designing+intelligent+AI+and+ML+solutions;Securing+systems+with+robust+cybersecurity" alt="Typing SVG" />
 
 <br/><br/>
 
-[![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
-[![CGPA](https://img.shields.io/badge/CGPA-8.7%2F10-6D28D9?style=for-the-badge)](#)
-[![Location](https://img.shields.io/badge/Location-Bengaluru%2C_India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![B.Tech](https://img.shields.io/badge/B.E-Computer%20Science%20&%20Engineering-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![CGPA](https://img.shields.io/badge/CGPA-9.35%2F10-6D28D9?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/Location-Ankola%2C_India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithmanjunathkv.vercel.app/#home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath-krishnanand-vernekar-99mkv/)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjunathkvernekar1509@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjunathKV929)
 
 <br/>
 
