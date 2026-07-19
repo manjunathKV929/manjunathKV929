@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![B.Tech](https://img.shields.io/badge/B.E-Computer%20Science%20&%20Engineering-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![B.E](https://img.shields.io/badge/B.E-Computer%20Science%20&%20Engineering-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 [![CGPA](https://img.shields.io/badge/CGPA-9.35%2F10-6D28D9?style=for-the-badge)](#)
 [![Location](https://img.shields.io/badge/Location-Ankola%2C_India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -21,9 +21,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=A78BFA&labelColor=1a1a2e&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=manjunathKV929&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/manjunathKV929?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/manjunathKV929?style=for-the-badge&color=A78BFA&labelColor=1a1a2e&label=STARS)
 
 </div>
 
