@@ -296,9 +296,7 @@ Issued by the Cloud Native Computing Foundation. Validates hands-on skills in de
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/manjunathKV929/manjunathKV929/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+![snake gif](https://github.com/manjunathKV929/manjunathKV929/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
